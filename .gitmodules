@@ -1,0 +1,3 @@
+[submodule "md-notes"]
+	path = md-notes
+	url = git@github.com:swanzeyb/md-notes.git
